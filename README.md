@@ -4,7 +4,7 @@
 * [RESTSharp](http://restsharp.org/)
 
 ##Description:
-	This class allows one to easily link their program with the GoToWebinar API. **AuthController.cs** gives you the steps(methods) in order to retrieve a users access token and such. Then **GoToWebinarService.cs** gives an example of how to get a user's upcoming webinars.
+This class allows one to easily link their program with the GoToWebinar API. **AuthController.cs** gives you the steps(methods) in order to retrieve a users access token and such. Then **GoToWebinarService.cs** gives an example of how to get a user's upcoming webinars.
 	
 ##License:
 	
